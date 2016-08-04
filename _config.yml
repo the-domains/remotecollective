@@ -1,0 +1,14 @@
+layout_spectrum: 0.7510981382802129
+typography_spectrum: 0.210876444587484
+color:
+  brandStrength: 0.03418684261851013
+  lightness: 0.31779460492543876
+  saturation: 0.5745256193913519
+  rhythmicContrast: 0.7538121964316815
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: remotecollective
